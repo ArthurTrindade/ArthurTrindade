@@ -17,6 +17,8 @@
 
 Bem-vindo ao meu Github, logo abaixo uma pequena apresentação sobre mim.
 
+Visite meu site pessoal: <https://arthur-trindade.netlify.app/>
+
 ## Public information
 
 Me chamo Arthur Trindade. Moro atualmente em Goiânia - GO e sou estudande de graduação de Ciência da Computação na Universidade Federal de Goiás - UFG.
