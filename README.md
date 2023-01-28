@@ -17,7 +17,7 @@
 
 Bem-vindo ao meu Github, logo abaixo uma pequena apresentação sobre mim.
 
-Visite meu site pessoal: <https://arthur-trindade.netlify.app/>
+<!-- Visite meu site pessoal: <https://arthur-trindade.netlify.app/> -->
 
 ## Public information
 
