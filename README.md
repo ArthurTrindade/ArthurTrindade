@@ -35,9 +35,9 @@ Me chamo Arthur Trindade. Moro atualmente em Goiânia - GO e sou estudande de gr
 
 * Aficionado por Hunter x Hunter.
 
-<div align="right" style="margin:auto">
-    <a href="https://wakatime.com/@ArthurTrindad">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vcwild&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
+<div align="center" style="margin:auto">
+     <a href="https://github.com/vcwild">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcwild&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+       alt="Most used languages" align="right">
     </a>
 </div>
-
