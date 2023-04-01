@@ -40,6 +40,6 @@ Me chamo Arthur Trindade. Moro atualmente em Goiânia - GO e sou estudande de gr
 
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@ArthurTrindade">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArthurTrindaded&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArthurTrindadede&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
     </a>
 </div>
