@@ -30,10 +30,3 @@ Me chamo Arthur Trindade. Moro atualmente em Goiânia - GO e sou estudande de gr
 * **Living in**: Goiânia - GO, Brazil
 * **Stack**: C
 * **University**: Undergraduate Student in Computer Science - UFG
-
-<div align="left" style="margin:auto">
-     <a href="https://github.com/ArthurTrindade">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTrindade&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
-       alt="Most used languages" align="left">
-    </a>
-</div>
