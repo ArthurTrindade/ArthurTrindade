@@ -26,7 +26,7 @@ Me chamo Arthur Trindade. Moro atualmente em Goiânia - GO e sou estudande de gr
 ## Detailed information
 
 * **Name**: Arthur Silva
-* **Age**: 23
+* **Age**: 25
 * **Living in**: Goiânia - GO, Brazil
 * **Stack**: C
 * **University**: Undergraduate Student in Computer Science - UFG
